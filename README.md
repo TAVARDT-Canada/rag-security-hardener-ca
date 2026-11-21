@@ -1,4 +1,4 @@
-# RAG Pipeline Security Validator & Defense Hardening Toolkit
+# RAG Pipeline Security Validator & Defense Hardening Toolkit - TAVARDT Canada
 
 > Context Isolation Audit, Indirect Injection Prevention, and Defensive AI Engineering
 
@@ -43,9 +43,9 @@ python rag_security_hardener.py --ingestion 3 --vector-db 3 --context-boundary 3
 
 ## Official Portals
 
-- **Official TAVARDT Portal**: [https://tavardt.ca](https://tavardt.ca)
-- **Tools Hub**: [https://tools.tavardt.ca](https://tools.tavardt.ca)
-- **Contact**: [https://tavardt.ca/contact](https://tavardt.ca/contact)
+- **Official TAVARDT Portal**: [https://ag.tavardt.com/ca/](https://ag.tavardt.com/ca/)
+- **Tools Hub**: [https://tools.tavardt.com/ca/](https://tools.tavardt.com/ca/)
+- **Contact**: [https://ag.tavardt.com/ca/contact/](https://ag.tavardt.com/ca/contact/)
 
 ---
 &copy; 2026 TAVARDT Canada. All rights reserved.
